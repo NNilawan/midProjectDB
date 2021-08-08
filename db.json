@@ -7,7 +7,7 @@
             "status_does2": true,
             "age": "16",
             "hometown": "Chiang Mai",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 1,
                     "name": "pFizer",
                     "date": "15/02/2021",
@@ -32,7 +32,7 @@
             "status_does2": false,
             "age": "30",
             "hometown": "Khon Kaen",
-            "vaccien": [{
+            "vaccine": [{
                 "id": 3,
                 "name": "Johnson & Johnson",
                 "date": "29/04/2021",
@@ -49,7 +49,7 @@
             "status_does2": false,
             "age": "25",
             "hometown": "Chiang Rai",
-            "vaccien": [{
+            "vaccine": [{
                 "id": 4,
                 "name": "Sputnik V",
                 "date": "15/02/2021",
@@ -66,7 +66,7 @@
             "status_does2": true,
             "age": "23",
             "hometown": "Bangkok",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 5,
                     "name": "Sinopharm",
                     "date": "15/02/2021",
@@ -91,7 +91,7 @@
             "status_does2": false,
             "age": "22",
             "hometown": "Tak",
-            "vaccien": [{
+            "vaccine": [{
                 "id": 7,
                 "name": "pFizer",
                 "date": "10/02/2021",
@@ -108,7 +108,7 @@
             "status_does2": false,
             "age": "24",
             "hometown": "Phichit",
-            "vaccien": [{
+            "vaccine": [{
                 "id": 8,
                 "name": "Moderna",
                 "date": "30/06/2021",
@@ -125,7 +125,7 @@
             "status_does2": true,
             "age": "28",
             "hometown": "Chiang Rai",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 9,
                     "name": "pFizer",
                     "date": "31/05/2021",
@@ -150,7 +150,7 @@
             "status_does2": true,
             "age": "29",
             "hometown": "Chiang Mai",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 11,
                     "name": "AstraZeneca",
                     "date": "04/03/2021",
@@ -175,7 +175,7 @@
             "status_does2": false,
             "age": "16",
             "hometown": "Chiang Mai",
-            "vaccien": [{
+            "vaccine": [{
                 "id": 13,
                 "name": "pFizer",
                 "date": "25/02/2021",
@@ -192,7 +192,7 @@
             "status_does2": false,
             "age": "16",
             "hometown": "Phayao",
-            "vaccien": [{
+            "vaccine": [{
                 "id": 14,
                 "name": "pFizer",
                 "date": "26/01/2021",
@@ -209,7 +209,7 @@
             "status_does2": false,
             "age": "19",
             "hometown": "Ratchaburi",
-            "vaccien": [{
+            "vaccine": [{
                 "id": 15,
                 "name": "Moderna",
                 "date": "12/01/2021",
@@ -226,7 +226,7 @@
             "status_does2": true,
             "age": "29",
             "hometown": "Chai Nat",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 16,
                     "name": "Sinopharm",
                     "date": "13/01/2021",
@@ -251,7 +251,7 @@
             "status_does2": true,
             "age": "23",
             "hometown": "Bangkok",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 18,
                     "name": "Moderna",
                     "date": "10/07/2021",
@@ -276,7 +276,7 @@
             "status_does2": true,
             "age": "31",
             "hometown": "Chanthaburi",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 20,
                     "name": "AstraZeneca ",
                     "date": "09/06/2021",
@@ -301,7 +301,7 @@
             "status_does2": true,
             "age": "44",
             "hometown": "Yala",
-            "vaccien": [{
+            "vaccine": [{
                     "id": 22,
                     "name": "Sputnik V",
                     "date": "05/03/2021",
